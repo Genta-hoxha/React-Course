@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+html {
+  font-family: "Quicksand", sans-serif;
+  line-height: 1.5;
+
+  color: #111;
+  background: rgb(230, 222, 222);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  min-height: 80rem;
+  text-align: center;
+}
+#button button {
+  background-color: rgb(88, 88, 232);
+  border-radius: 10px;
+  border-color: transparent;
+  width: 130px;
+  height: 30px;
+  text-align: left;
+}
+#button1 button {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  border-color: blue;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+  color: blue;
+}
+#button2 button {
+  background-color: rgb(230, 222, 222);
+  border-color: transparent;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+  color: blue;
+}
+#button3 button {
+  background-color: rgb(88, 88, 232);
+  border-radius: 8px;
+  border-color: transparent;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+}
+#button4 button {
+  background-color: rgb(230, 222, 222);
+  border-color: transparent;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+  color: blue;
+}
+#button5 button {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: #111;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+  color: #111;
+  border-color: beige;
+}
+#button6 button {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  text-align: left;
+  color: #1a1a1a;
+  border-color: #767474;
+}
